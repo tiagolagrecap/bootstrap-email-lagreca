@@ -1,0 +1,58 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    font-size: 1em;
+}
+
+.email-preview{
+    font-size: 0.7em;
+
+   
+}
+
+.size {
+    height: 100%;
+}
+
+
+.sidebar-col {
+    background-color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.content-col {
+    background-color: rgb(226, 223, 223);
+}
+
+.content-col2 {
+    background-color: rgb(203, 199, 199);
+}
+
+
+.row {
+    height: 100%;
+}
+
+.email:hover {
+    background-color: rgb(203, 199, 199);
+    
+}
+
+.button{
+    float: right;
+    margin-top: 10px;
+    background-color: rgb(73, 72, 72);
+   
+}
+
+.side{
+    
+   margin-left: 5px;
+
+}
+
+.search{
+   
+}
