@@ -21,6 +21,13 @@ Created the sidebar icons
 09/25/2023
 add hover to the e-mails 
 Created Icons (favorite, trash, reply, dots)
-Create reply box
+Created reply box
+Created the card email 
+
+
+09/26/2023
+
+Study more and more grids and flexbox 
+
 
 
